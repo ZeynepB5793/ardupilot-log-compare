@@ -60,7 +60,7 @@ Follow these steps in your terminal to set up the project:
 
 3.  **Activate the virtual environment:**
     ```bash
-    source v_env/bin/activate
+    source venv/bin/activate
     ```
     *(Your terminal prompt should now show `(venv)`)*
 
@@ -76,7 +76,7 @@ Follow these steps in your terminal to set up the project:
 
 1.  **Activate the environment** (if not already active):
     ```bash
-    source v_env/bin/activate
+    source venv/bin/activate
     ```
 
 2.  **Run the application:**
